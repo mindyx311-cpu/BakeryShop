@@ -1,0 +1,26 @@
+// src/main/java/com/bakeryshop/backend/user/User.java
+package com.bakeryshop.backend.user;
+
+import jakarta.persistence.*;
+import lombok.*;
+
+@Entity
+@Table(name = "users")
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class User {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(nullable = false, unique = true, length = 50)
+    private String username;
+
+
+    @Column(nullable = false)
+    private String password; // BCrypt Encrypted password
+}

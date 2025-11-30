@@ -1,0 +1,74 @@
+/* src/pages/OrderSuccessPage.css */
+
+.order-success-page {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 0 24px 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.order-success-card {
+  width: 100%;
+  max-width: 520px;
+  text-align: center;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  padding: 32px 28px 28px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+}
+
+.success-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: 2px solid #22a55b;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: #22a55b;
+  margin-bottom: 12px;
+}
+
+.order-success-card h2 {
+  margin: 8px 0 6px;
+  font-size: 24px;
+}
+
+.success-main-text {
+  margin: 0 0 4px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.success-sub-text {
+  margin: 0 0 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.success-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.success-actions .btn {
+  display: inline-block;
+  padding: 9px 16px;
+  border-radius: 20px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+  background: #fff;
+}
+
+.success-actions .btn.primary {
+  background: #ffd814;
+  border-color: #f0c14b;
+  font-weight: 600;
+}
