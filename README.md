@@ -18,17 +18,26 @@ Users can:
 ### 🏠 Home Page
 ![Home](./screenshots/01.png)
 
-### 🛒 Cart Page
+### ✅️ Register Page
 ![Cart](./screenshots/02.png)
 
-### 💾 Save for Later
+### ✅️ login Page
 ![Save for Later](./screenshots/03.png)
 
-### 🛍️ Checkout Page
+### 🛒 Cart Page
 ![Checkout](./screenshots/04.png)
 
+### 🎉 Save for later Page
+![Order Success](./screenshots/05.png)
+
+### 🛍️ Checkout Page
+![Order History](./screenshots/06.png)
+
 ### 🎉 Order Success
-![Order Success](./screenshot)
+![Login](./screenshots/07.png)
+
+### 📦 Order History
+![Register](./screenshots/08.png)
 
 ## ✨ Features
 
