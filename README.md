@@ -13,6 +13,22 @@ Users can:
 > This repo is intended as a portfolio/demo project to showcase full-stack skills (Java, Spring Boot, REST API, React, state management, integration with a database, etc.).
 
 ---
+## 🖼️ Demo Preview
+
+### 🏠 Home Page
+![Home](./screenshots/01.png)
+
+### 🛒 Cart Page
+![Cart](./screenshots/02.png)
+
+### 💾 Save for Later
+![Save for Later](./screenshots/03.png)
+
+### 🛍️ Checkout Page
+![Checkout](./screenshots/04.png)
+
+### 🎉 Order Success
+![Order Success](./screenshot)
 
 ## ✨ Features
 
